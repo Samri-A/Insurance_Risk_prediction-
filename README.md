@@ -10,21 +10,30 @@ Key features include:
 
 ## Project Structure
 
- ├── .dvcignore 
- ├── .gitignore 
- ├── README.md 
- ├── requirements.txt 
- ├── .dvc/ 
- ├── env/ 
- ├── notebooks/ 
-           │ ├── EDA.ipynb 
-           │ └── README.MD 
+ ├── .dvcignore                                                                                                                                                                                                      
+ ├── .gitignore                                                                                                                                                                                                          
+ ├── README.md                                                                                                                                                                                                                                                                                                                                                                                                                  
+ ├── requirements.txt                                                                                                                                                                                                
+ ├── .dvc/                                                                                                                                                                                                                       
+ ├── env/                                                                                                                                                                                                           
+  
+ ├── notebooks/    
+
+ 
+           │ ├── EDA.ipynb                                                                                                                                                                                          
+             
+           │ └── README.MD                                                                                                                                                                                                
            
-├── scripts/ │ 
-             └── data_prep.py 
-├── src/ │ 
-         └── data/ 
+├── scripts/ │                                                                                                                                                                                                                    
+
+             └── data_prep.py                                                                                                                                                                                        
+├── src/ │                                                                                                                                                                                                            
+
+         └── data/                                                  
+         
 ├── tests/ 
+
+
 └── vscode/
 
 
